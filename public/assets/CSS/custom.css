@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'PKMaehongson';
+    src: url(../Font/PK\ Maehongson\ Medium.ttf);
+}
+body{
+    /* font-family: 'Sarabun', sans-serif; */
+font-family: 'PKMaehongson',sans-serif;
+}
+.colnav{
+    background-color: hsl(141, 100%, 21%);
+
+}
