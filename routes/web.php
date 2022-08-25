@@ -14,3 +14,5 @@ Route::get('product', function(){
 });
 // backend route  
 Route::get('backend/dashbord', [backendController::class,'dashbord']);
+Route::get('backend/employees', [backendController::class,'employees']);
+Route::get('backend/employeelist', [backendController::class,'employeelist']);
